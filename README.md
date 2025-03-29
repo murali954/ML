@@ -1,4 +1,4 @@
-# AI-Powered Travel Planner - Documentation
+# AI-Powered Travel Planner 
 
 ## Introduction
 This project is an AI-powered travel itinerary planner that generates personalized travel plans based on user inputs such as destination, budget, duration, and preferences. The application is built using **Streamlit** for the frontend and **Cohere's AI API** for text generation.
